@@ -106,6 +106,8 @@ http://45.71.200.254:8000/play/a0ij/index.m3u8
 http://190.131.228.59:8000/play/a04a/index.m3u8
 #EXTINF:-1 tvg-id="TVE",TVE
 http://190.131.228.59:8000/play/a04e/index.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español (1080p)
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
 #EXTINF:-1 tvg-id="Telemundo",Telemundo
 http://190.131.228.59:8000/play/a067/index.m3u8
 #EXTINF:-1,UNIVERSAL CINEMA
@@ -117,6 +119,34 @@ http://190.131.228.59:8000/play/a040/index.m3u8
 #EXTINF:-1 tvg-id="Warner",Warner
 http://190.131.228.59:8000/play/a05p/index.m3u8
 http://45.71.200.254:8000/play/a0fw/index.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 2 HD
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 3 (720p)
+https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
+#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus HD
+https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined",Azteca 7
+http://topstb.com:8000/50656250782258/27115840859269/205623?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",Azteca 7
+http://comag.rip:8000/00159101576765/61790209632447/205623?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AZTECA 1 FHD
+http://topstb.com:8000/50656250782258/27115840859269/205577?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AZTECA 1 FHD
+http://comag.rip:8000/00159101576765/61790209632447/205577?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AZTECA 7
+http://topstb.com:8000/50656250782258/27115840859269/206601?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AZTECA 7
+http://topstb.com:8000/50656250782258/27115840859269/206403?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AZTECA 7 SD
+http://topstb.com:8000/50656250782258/27115840859269/205624?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AZTECA 7 SD
+http://comag.rip:8000/00159101576765/61790209632447/205624?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AZTECA MUNDO HD
+http://comag.rip:8000/00159101576765/61790209632447/205589?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AZTECA MUNDO SD
+http://topstb.com:8000/50656250782258/27115840859269/205590?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",AZTECA MUNDO SD
+http://comag.rip:8000/00159101576765/61790209632447/205590?checkedby:iptvcat.com
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a0jt.png",Claro Musica
 http://45.71.200.254:8000/play/a0jt/index.m3u8
 #EXTINF:-1 tvg-logo="http://45.71.200.254:8000/playlist/tvg-logo/a02r.png",Concert Channel
@@ -175,5 +205,11 @@ https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w10274
 http://streaming01.shockmedia.com.ar:8666/stream
 #EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest/scale-to-width-down/1200?cb=20200123215611&path-prefix=es" group-title="Familiares",BitMe
 http://topstb.com:8000/50656250782258/27115840859269/205567?checkedby:iptvcat.com
-#EXTINF:-1 tvg-id="AZTECA 7" tvg-name="AZTECA 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Azteca_7_2011.svg/revision/latest/scale-to-width-down/200?cb=20210516042820&path-prefix=es"
-http://topstb.com:8000/50656250782258/27115840859269/205624?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BITME
+http://comag.rip:8000/00159101576765/61790209632447/206375?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BITME HD
+http://topstb.com:8000/50656250782258/27115840859269/205567?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BITME HD
+http://comag.rip:8000/00159101576765/61790209632447/205567?checkedby:iptvcat.com
+#EXTINF:-1 group-title="Undefined",BITME SD
+http://topstb.com:8000/50656250782258/27115840859269/205566?checkedby:iptvcat.com
