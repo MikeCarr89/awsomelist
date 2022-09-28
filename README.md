@@ -197,6 +197,8 @@ http://45.71.200.254:8000/play/a0g3/index.m3u8
 http://45.71.200.254:8000/play/a03k/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1a83AZY.png" group-title="JOVENES Y ADULTOS", Magic Club HD (Geobloq)
 https://cloud.odysee.live/live/c8f16b77f3e3f06149a345bb83a7a6d689f687f4.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="Fox Kids Tv" tvg-name="Fox Kids Tv" tvg-logo="https://i.postimg.cc/JnDLThf3/FOX-AMERICA.png" group-title="INFANTIL",Fox Kids America
+https://v.poastcdn.org/streaming-playlists/hls/25f337db-5b97-447e-8b16-4edf6dd07e63/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1a83AZY.png" group-title="JOVENES Y ADULTOS", Magic Club SD
 https://livestreams.flote.app:5443/flote/streams/4b077525-6261-42ae-8941-d3804cc87e2f.m3u8
 #EXTINF:-1 tvg-name="Locomotion" tvg-id="Locomotion" tvg-logo="http://locomotiontv.com/locomotion/logo.png" group-title="JOVENES Y ADULTOS",Locomotion
