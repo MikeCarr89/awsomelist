@@ -173,3 +173,7 @@ https://videostreaming.cloudserverlatam.com/CSTV/CSTV/playlist.m3u8
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="http://cdn.onlineradiobox.com/img/logo/9/88679.v8.png" group-title="RADIOS",MAGIC KIDS FM
 http://streaming01.shockmedia.com.ar:8666/stream
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2b/BitMe.png/revision/latest/scale-to-width-down/1200?cb=20200123215611&path-prefix=es" group-title="Familiares",BitMe
+http://topstb.com:8000/50656250782258/27115840859269/205567?checkedby:iptvcat.com
+#EXTINF:-1 tvg-id="AZTECA 7" tvg-name="AZTECA 7" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/76/Azteca_7_2011.svg/revision/latest/scale-to-width-down/200?cb=20210516042820&path-prefix=es"
+http://topstb.com:8000/50656250782258/27115840859269/205624?checkedby:iptvcat.com
