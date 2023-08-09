@@ -192,7 +192,7 @@ https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/vYaJXjV.png" group-title="Familiares",Magic Kids
 https://magicstream.ddns.net:443/magicstream/stream.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/B7odp7O.png" group-title="Familiares",Retro Magico
-https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
+https://vsd113.mycdn.me/hls/4858246007425.m3u8/sig/SghV4nlALuE/expires/1691674035626/srcIp/87.68.221.238/urls/45.136.21.45/clientType/0/srcAg/CHROME_ANDROID/mid/6035274800769/video.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tCwRSRr.png" group-title="Familiares",Gogoplay TV
 https://live-de-1.livepush.io/live/emAeNk8mcoqhhYV/tracks-v1a1/mono.m3u8?token=d9ac7156fa6d68ab41262c092349e4f856458931-6fa54d4f38b117eb-1662753597
 #EXTINF:-1 tvg-id="" tvg-logo="https://www.m3u.cl/logo/1019_Latino_Kids_TV.png" group-title="Familiares",Latino Kids TV
