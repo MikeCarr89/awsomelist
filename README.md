@@ -254,8 +254,6 @@ http://181.78.105.146:2000/play/a03j/index.m3u8
 http://181.78.105.146:2000/play/a014/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",CartoonNetwork
 http://181.78.105.146:2000/play/a03k/index.m3u8
-#EXTINF:-1 group-title="TV PREMIUM",Discovery kids
-http://181.78.105.146:2000/play/a015/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",MXNuestroCine
 http://181.78.105.146:2000/play/a04h/index.m3u8
 #EXTINF:-1 group-title="TV PREMIUM",IngenioTV
